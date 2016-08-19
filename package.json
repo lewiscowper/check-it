@@ -1,0 +1,36 @@
+{
+  "name": "check-it",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdemars/check-it"
+  },
+  "keywords": [
+    "css",
+    "important",
+    "!important",
+    "web",
+    "stylesheets"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "checkit": "./index.js"
+  },
+  "author": "Chris DeMars <cdemars86@gmail.com> (http://chrisdemars.com) and TJ Miller (https://tjmiller.co) ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdemars/check-it/issues"
+  },
+  "homepage": "https://github.com/chrisdemars/check-it#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "log-symbols": "^1.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+### Test CSS files ###
+*.css
+
+### Roadmap ###
+roadmap.md
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+node_modules/
