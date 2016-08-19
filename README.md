@@ -9,7 +9,7 @@ Navigate to the directory containing the CSS file.
 
 Run
 ```
-npm install -g checkit
+npm install -g check-it
 
 ```
 
